@@ -174,7 +174,7 @@ section{
 }
 .footer{
     background-color: #000016;
-    color: white;
+    color: green;
     padding: 2em;
     display: flex;
     justify-content: space-between;
